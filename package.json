@@ -1,7 +1,7 @@
 {
-  "name": "qr-generator",
+  "name": "qrgenerator",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "http://qrgenerator.github.io/qrgenerator",
   "dependencies": {
     "events": "^3.0.0",
     "flux": "^3.1.3",
